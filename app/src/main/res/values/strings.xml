@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RexburgMagic</string>
+    <string name="numberOfBeds"># of Beds</string>
+    <string name="deliverBeds">Deliver!</string>
 </resources>
