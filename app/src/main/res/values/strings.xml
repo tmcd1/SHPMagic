@@ -2,4 +2,11 @@
     <string name="app_name">RexburgMagic</string>
     <string name="numberOfBeds"># of Beds</string>
     <string name="deliverBeds">Deliver!</string>
+    <string name="topHeadBoards">Top Head Boards</string>
+    <string name="bottomHeadBoards">Bottom Head Boards</string>
+    <string name="runner">Runners</string>
+    <string name="safetyRail">Safety Rails</string>
+    <string name="slat">Slats</string>
+    <string name="lags">Lags</string>
+    <string name="washers">Washers</string>
 </resources>
